@@ -1,0 +1,6 @@
+from gym_sparse.envs.sparse_half_cheetah import SparseHalfCheetahEnv
+from gym_sparse.envs.delayed_ant import DelayedAntEnv
+from gym_sparse.envs.delayed_half_cheetah import DelayedHalfCheetahEnv
+from gym_sparse.envs.delayed_hopper import DelayedHopperEnv
+from gym_sparse.envs.delayed_humanoid import DelayedHumanoidEnv
+from gym_sparse.envs.delayed_walker2d import DelayedWalker2dEnv
